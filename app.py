@@ -2,7 +2,7 @@ import openpyxl
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from datetime import datetime
-
+#teste 
 
 driver = webdriver.Chrome()
 driver.get("https://www.imoveismartinelli.com.br/pesquisa-de-imoveis/?locacao_venda=V&id_cidade%5B%5D=21&finalidade=&dormitorio=&garagem=&vmi=&vma=&ordem=4")
